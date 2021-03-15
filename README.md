@@ -21,17 +21,20 @@
 <br>
 
 ## :rocket: O Projeto
+Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
 
 ## :dart: Proposta
 
- **Requisitos**
+ **Requisitos Funcionais**
 
- - [x]  ;
- - [x]  ;
- - [x]  ;
- - [x]  ;
- - [x]  ;
- - [x]  .<br><br>
+ - [x] Cadastro de Participantes;
+ - [x] Cadastro de Projetos;
+ - [x] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio).
+ 
+ **Requisitos Não Funcionais**
+ 
+ - [x] Todos os conteúdos devem ser de autoria própria;
+ - [x] Site de caráter institucional.<br><br>
 
 **:link: Clique no link abaixo para visualizar o modelo do site no Figma.**  
 > [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
@@ -40,17 +43,19 @@
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-- [x] SPRINT 0 -
+- [x] KICK OFF - 28/02 a 06/03
 
-- [x] SPRINT 1 -
+- [x] SPRINT 1 - 08/03 a 28/03
 
-- [x] SPRINT 2 -
+- [x] SPRINT 2 - 29/03 a 18/04
 
-- [x] SPRINT 3 -
+- [x] SPRINT 3 - 26/04 a 16/05
 
-- [x] Apresentação Final - 
+- [x] SPRINT 4 - 17/05 a 05/06
 
-- [x] Feira de Soluções - 
+- [x] Apresentação Final - 07/06 a 11/06
+
+- [x] Feira de Soluções - 14/06 a 18/06
 
 
 <h1 align="center"> <img src = ""/></h1>
@@ -66,10 +71,11 @@
 
 <h1 align="center"> <img src = ""/></h1>
 
+* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams.
 * **Banco de Dados:** 
 * **Back-end:** 
 * **Front-end:** 
-* **Ferramentas:** Visual Studio Code e Figma
+* **Ferramentas:** Github, Visual Studio Code e Figma
 
 <br>
 
@@ -92,10 +98,10 @@
 |**Luciana Bezerra**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/luciana-bezerra-da-silva-8809a5206/)|[@GitHub](https://github.com/Luciana013)|
 |**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn]()|[@GitHub]()|
 |**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub]()|
-|**Kauã Renó**|Desenvolvedor 3|[@LinkedIn]()|[@GitHub]()|
+|**Kauã Renó**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/search/results/all/?keywords=kaua%20r&origin=GLOBAL_SEARCH_HEADER)|[@GitHub](https://github.com/KauaGRR)|
 |**Lucas Moreira**|Desenvolvedor 4|[@LinkedIn]()|[@GitHub]()|
-|**Maria Braga**|Desenvolvedor 5|[@LinkedIn]()|[@GitHub]()|
-|**Rafaela Silva**|Desenvolvedor 6|[@LinkedIn]()|[@GitHub]()|
+|**Maria Braga**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub]()|
+|**Rafaela Silva**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub]()|
 |**Tainara Santos**|Desenvolvedor 7|[@LinkedIn](https://www.linkedin.com/in/tainara-s-952573200/)|[@GitHub](https://github.com/Tainara03)|
 
 <br>
