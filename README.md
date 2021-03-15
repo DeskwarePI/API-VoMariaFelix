@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-      <img src="/Imagens Gerais/Logo.jpeg" width="200" height="150">
+      <img src="/Imagens Gerais/Logo.png" width="200" height="150">
       <h3 align="center"> ONG Vó Maria Félix </h3>
 <p align="center">
 
