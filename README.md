@@ -8,11 +8,11 @@
 <hr>
 
 <p align="center">
-  <a href ="#rocket-o-projeto"> Projeto </a>  • 
-  <a href ="#dart-proposta"> Proposta </a>  • 
-  <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
-  <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
+  <a href ="#briefcase-o-projeto"> Projeto </a>  • 
+  <a href ="#pushpin-objetivos"> Objetivos </a>  • 
+  <a href ="#calendar-entregas"> Entregas </a>  • 
+  <a href ="#file_folder-cards-das-sprints"> Cards </a>  •
+  <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
   <a href ="#mortar_board-equipe"> Equipe </a> 
@@ -20,10 +20,13 @@
 
 <br>
 
-## :rocket: O Projeto
+## :briefcase: O Projeto
 Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
 
-## :dart: Proposta
+<br>
+
+## :pushpin: Objetivos
+Foi requisitado para nós desenvolvermos um site institucional que contenha inicialmente:
 
  **Requisitos Funcionais**
 
@@ -36,12 +39,12 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
  - [x] Todos os conteúdos devem ser de autoria própria;
  - [x] Site de caráter institucional.<br><br>
 
-**:link: Clique no link abaixo para visualizar o modelo do site no Figma.**  
+**:link: Modelo do site realizado no Figma**  
 > [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
 
 <br>
 
-## :hourglass_flowing_sand: Planejamento de Entregas
+## :calendar: Entregas
 
 - [x] KICK OFF - 28/02 a 06/03
 
@@ -62,12 +65,12 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 
 <br>
 
-## :card_index_dividers: Cards das Sprints
+## :file_folder: Cards das Sprints
 <img src="" width="1500" height="450">
 
 <br>
 
-## :computer: Tecnologias Utilizadas
+## :wrench: Tecnologias Utilizadas
 
 <h1 align="center"> <img src = ""/></h1>
 
@@ -93,8 +96,8 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 
 ## :mortar_board: Equipe 
 
-|Nome|Função|Linkedin|GitHub|Avatar|
-| -------- |-------- |-------- |-------- |-------- |
+|Nome|Função|Linkedin|GitHub|
+| -------- |-------- |-------- |-------- |
 |**Luciana Bezerra**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/luciana-bezerra-da-silva-8809a5206/)|[@GitHub](https://github.com/Luciana013)|
 |**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn]()|[@GitHub]()|
 |**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub]()|
@@ -106,6 +109,6 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 
 <br>
 
- <h1 align="center"> <img src = "" height="90" /></h1>
+ <h1 align="center"> <img src = "/Imagens Gerais/Fatec.jpg" height="90" /></h1>
  
- <h5 align="center"> <img src = "" width="20" height="20" /> Projeto Integrador - Fatec São José dos Campos </h5>
+ <h5 align="center"> <img src = "/Imagens Gerais/faTec.png" width="20" height="20" /> Projeto Integrador 2021 - Fatec São José dos Campos </h5>
