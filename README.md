@@ -12,7 +12,7 @@
   <a href ="#dart-proposta"> Proposta </a>  • 
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
   <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
-  <a href ="#desktop_computer-tecnologias-utilizadas"> Tecnologias </a>  • 
+  <a href ="#desktop_computer-Tecnologias Utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
   <a href ="#mortar_board-equipe"> Equipe </a> 
@@ -67,7 +67,7 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 
 <br>
 
-## :computer: Tecnologias Utilizadas
+## :desktop_computer: Tecnologias Utilizadas
 
 <h1 align="center"> <img src = ""/></h1>
 
