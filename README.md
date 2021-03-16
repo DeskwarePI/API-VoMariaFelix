@@ -30,14 +30,14 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
  **Requisitos Funcionais**
 
- - [x] Cadastro de Participantes;
- - [x] Cadastro de Projetos;
- - [x] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio).
+ - [ ] Cadastro de Participantes;
+ - [ ] Cadastro de Projetos;
+ - [ ] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio).
  
  **Requisitos Não Funcionais**
  
- - [x] Todos os conteúdos devem ser de autoria própria;
- - [x] Site de caráter institucional.<br><br>
+ - [ ] Todos os conteúdos devem ser de autoria própria;
+ - [ ] Site de caráter institucional.<br><br>
 
 **:link: Modelo do site realizado no Figma**  
 > [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
@@ -46,27 +46,27 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :calendar: Entregas
 
-- [x] KICK OFF - 28/02 a 06/03
+- [ ] KICK OFF - 28/02 a 06/03
 
-- [x] SPRINT 1 - 08/03 a 28/03
+- [ ] SPRINT 1 - 08/03 a 28/03
 
-- [x] SPRINT 2 - 29/03 a 18/04
+- [ ] SPRINT 2 - 29/03 a 18/04
 
-- [x] SPRINT 3 - 26/04 a 16/05
+- [ ] SPRINT 3 - 26/04 a 16/05
 
-- [x] SPRINT 4 - 17/05 a 05/06
+- [ ] SPRINT 4 - 17/05 a 05/06
 
-- [x] Apresentação Final - 07/06 a 11/06
+- [ ] Apresentação Final - 07/06 a 11/06
 
-- [x] Feira de Soluções - 14/06 a 18/06
+- [ ] Feira de Soluções - 14/06 a 18/06
 
 
-<h1 align="center"> <img src = ""/></h1>
+<h1 align="right"> <img src = "/Imagens Gerais/Cronograma.png"/></h1>
 
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="" width="650" height="450">
+<img src="" width="900" height="450">
 
 <br>
 
