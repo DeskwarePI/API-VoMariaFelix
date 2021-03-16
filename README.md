@@ -60,8 +60,8 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 - [x] Feira de Soluções - 14/06 a 18/06
 
-<div>
-<img align="right"> <img src = "/Imagens Gerais/Cronograma.png"
+
+<h1 align="right"> <img src = "/Imagens Gerais/Cronograma.png"/></h1>
 
 <br>
 
