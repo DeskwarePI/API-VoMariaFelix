@@ -43,7 +43,6 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 > [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
 
 <br> <div>
-<img align="right"> <img src = "/Imagens Gerais/Cronograma.png">
 
 ## :calendar: Entregas
 
@@ -61,6 +60,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 - [x] Feira de Soluções - 14/06 a 18/06
 
+<img align="right"> <img src = "/Imagens Gerais/Cronograma.png">
 
 </div>
 
