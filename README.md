@@ -66,7 +66,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="" width="900" height="450">
+<img src="" width="650" height="450">
 
 <br>
 
@@ -90,7 +90,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :bar_chart: Backlog do Produto
 
-<h1 align="center"> <img src = "/Imagens Gerais/Backlog.png" /></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/" /></h1>
 
 <br>
 
