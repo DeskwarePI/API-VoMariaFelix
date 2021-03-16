@@ -42,11 +42,11 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 **:link: Modelo do site realizado no Figma**  
 > [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
 
-<br> <div>
+<br> 
 
 ## :calendar: Entregas
 
-- [1] KICK OFF - 28/02 a 06/03
+- [x] KICK OFF - 28/02 a 06/03
 
 - [x] SPRINT 1 - 08/03 a 28/03
 
@@ -60,9 +60,8 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 - [x] Feira de Soluções - 14/06 a 18/06
 
-<img align="right"> <img src = "/Imagens Gerais/Cronograma.png">
-
-</div>
+<div>
+<img align="right"> <img src = "/Imagens Gerais/Cronograma.png"
 
 <br>
 
