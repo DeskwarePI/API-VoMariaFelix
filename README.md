@@ -66,7 +66,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="" width="1500" height="450">
+<img src="" width="900" height="450">
 
 <br>
 
@@ -90,7 +90,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :bar_chart: Backlog do Produto
 
-<h1 align="center"> <img src = "" /></h1>
+<h1 align="center"> <img src = "/SPRINT 1/Backlog.pdf" /></h1>
 
 <br>
 
@@ -99,12 +99,12 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 |Nome|Função|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
 |**Luciana Bezerra**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/luciana-bezerra-da-silva-8809a5206/)|[@GitHub](https://github.com/Luciana013)|
-|**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn]()|[@GitHub]()|
-|**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub]()|
+|**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/)|[@GitHub](https://github.com/GustavoAndo)|
+|**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub](https://github.com/jufaela)|
 |**Kauã Renó**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/search/results/all/?keywords=kaua%20r&origin=GLOBAL_SEARCH_HEADER)|[@GitHub](https://github.com/KauaGRR)|
-|**Lucas Moreira**|Desenvolvedor 4|[@LinkedIn]()|[@GitHub]()|
+|**Lucas Moreira**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|
 |**Maria Braga**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub]()|
-|**Rafaela Silva**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub]()|
+|**Rafaela Silva**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub](https://github.com/rpssky)|
 |**Tainara Santos**|Desenvolvedor 7|[@LinkedIn](https://www.linkedin.com/in/tainara-s-952573200/)|[@GitHub](https://github.com/Tainara03)|
 
 <br>
