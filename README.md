@@ -90,7 +90,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :bar_chart: Backlog do Produto
 
-<h1 align="center"> <img src = "/Imagens Gerais/" /></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem backlog" /></h1>
 
 <br>
 
