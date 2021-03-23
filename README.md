@@ -66,7 +66,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="/Imagens Gerais/Imagem cards.png" width="750" height="450">
+<img src="/Imagens Gerais/Imagem cards.png" width="850" height="450">
 
 <br>
 
