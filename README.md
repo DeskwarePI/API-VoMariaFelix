@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-      <img src="/Imagens Gerais/Logo.png" width="200" height="150">
+      <img src="/Imagens Gerais/Logo.jpg" width="200" height="150">
       <h3 align="center"> ONG Vó Maria Félix </h3>
 <p align="center">
 
@@ -40,7 +40,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
  - [ ] Site de caráter institucional.<br><br>
 
 **:link: Modelo do site realizado no Figma**  
-> [Protótipo do Site](https://www.figma.com/file/bFUWbHO0EcL5cLEiBYBiTZ/API?node-id=28%3A52)
+> [Protótipo do Site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
 
 <br> 
 
@@ -66,7 +66,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="" width="900" height="450">
+<img src="/Imagens Gerais/Imagem cards.png" width="750" height="450">
 
 <br>
 
