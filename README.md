@@ -14,8 +14,8 @@
   <a href ="#file_folder-cards-das-sprints"> Cards </a>  •
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
-  <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
-  <a href ="#map-mapa-do-site"> Mapa </a>
+  <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
+  <a href ="#map-mapa-do-site"> Mapa </a> •
   <a href ="#mortar_board-equipe"> Equipe </a> 
 </p>
 
