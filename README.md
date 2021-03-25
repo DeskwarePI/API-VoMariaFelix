@@ -15,7 +15,7 @@
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
-  <a href ="#map-mapa-do-site"> Mapa </a> •
+  <a href ="#world_map-mapa-do-site"> Mapa </a> •
   <a href ="#mortar_board-equipe"> Equipe </a> 
 </p>
 
@@ -67,7 +67,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="/Imagens Gerais/Imagem cards.png" width="850" height="450">
+<img src="/Imagens Gerais/Imagem cards.png" width="700" height="400">
 
 <br>
 
@@ -95,7 +95,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 <br>
 
-## :map: Mapa do Site
+## :world_map: Mapa do Site
 
 <h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.jpeg" /></h1>
 
