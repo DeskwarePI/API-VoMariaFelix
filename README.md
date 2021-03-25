@@ -62,7 +62,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 - [x] Feira de Soluções - 14/06 a 18/06
 
 
-<h1 align="right"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
 
 <br>
 
@@ -91,7 +91,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :bar_chart: Backlog do Produto
 
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem backlog.png" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog.png" /></h1>
 
 <br>
 
