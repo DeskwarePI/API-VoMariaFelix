@@ -67,7 +67,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 <br>
 
 ## :file_folder: Cards das Sprints
-<img src="/Imagens Gerais/Imagem cards.png" width="700" height="400">
+<img src="/Imagens Gerais/Imagem cards.png" width="850" height="450">
 
 <br>
 
@@ -97,7 +97,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :world_map: Mapa do Site
 
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.jpeg" /></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.png" /></h1>
 
 <br>
 
