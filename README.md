@@ -15,7 +15,7 @@
   <a href ="#world_map-mapa-do-site"> Mapa </a> • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
-  <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
+  <a href ="#bar_chart-backlog-total"> Backlog </a>  • 
   <a href ="#mortar_board-equipe"> Equipe </a> 
 </p>
 
@@ -61,7 +61,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 - [x] Feira de Soluções - 14/06 a 18/06
 
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/cronograma+backlog.png" width="680" height="511"/></h1>
 
 <br>
 
@@ -97,7 +97,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 <br>
 
-## :bar_chart: Backlog Total do Produto
+## :bar_chart: Backlog Total
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total evolução.png" width="680" height="511"/></h1>
 
