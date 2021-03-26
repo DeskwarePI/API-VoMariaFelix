@@ -11,12 +11,11 @@
   <a href ="#briefcase-o-projeto"> Projeto </a>  • 
   <a href ="#pushpin-objetivos"> Objetivos </a>  • 
   <a href ="#calendar-entregas"> Entregas </a>  • 
-  <a href ="#file_folder-cards-das-sprints"> Cards </a>  •
-  <a href = "#link-wireframe"> Wireframe </a> • 
+  <a href ="#file_folder-cards-das-sprints"> Cards </a>  • 
+  <a href ="#world_map-mapa-do-site"> Mapa </a> • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
-  <a href ="#world_map-mapa-do-site"> Mapa </a> •
   <a href ="#mortar_board-equipe"> Equipe </a> 
 </p>
 
@@ -69,7 +68,11 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 <br>
 
-## :link: Wireframe
+## :world_map: Mapa do Site
+
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.png" /></h1>
+
+**:link: Wireframe**
 > [Clique para ver o protótipo do nosso site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
 
 <br> 
@@ -95,12 +98,6 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 ## :bar_chart: Backlog do Produto
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog.png" /></h1>
-
-<br>
-
-## :world_map: Mapa do Site
-
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.png" /></h1>
 
 <br>
 
