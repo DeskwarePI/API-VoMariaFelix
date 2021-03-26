@@ -11,7 +11,6 @@
   <a href ="#briefcase-o-projeto"> Projeto </a>  • 
   <a href ="#pushpin-objetivos"> Objetivos </a>  • 
   <a href ="#calendar-entregas"> Entregas </a>  • 
-  <a href ="#file_folder-cards-das-sprints"> Cards </a>  • 
   <a href ="#world_map-mapa-do-site"> Mapa </a> • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
@@ -65,11 +64,6 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 <br>
 
-## :file_folder: Cards das Sprints
-<img src="/Imagens Gerais/Imagem cards.png" width="680" height="511">
-
-<br>
-
 ## :world_map: Mapa do Site
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
@@ -99,7 +93,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 ## :bar_chart: Backlog Total
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total evolução.png" width="680" height="511"/></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total.png"/></h1>
 
 <br>
 
