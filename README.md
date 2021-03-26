@@ -12,6 +12,7 @@
   <a href ="#pushpin-objetivos"> Objetivos </a>  • 
   <a href ="#calendar-entregas"> Entregas </a>  • 
   <a href ="#file_folder-cards-das-sprints"> Cards </a>  •
+  <a href = "#link-wireframe"> Wireframe </a> • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
@@ -32,24 +33,21 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
  **Requisitos Funcionais**
 
  - [ ] Cadastro de Participantes;
- - [ ] Cadastro de Projetos;
- - [ ] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio).
- 
+ - [ ] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio)
+ - [ ] Cadastro de Projetos.
+
  **Requisitos Não Funcionais**
  
  - [ ] Todos os conteúdos devem ser de autoria própria;
  - [ ] Site de caráter institucional.<br><br>
 
-**:link: Modelo do site realizado no Figma**  
-> [Protótipo do Site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
-
-<br> 
+<br>
 
 ## :calendar: Entregas
 
-- [x] KICK OFF - 28/02 a 06/03
+- [x] KICK OFF - 28/02 a 06/03: Concluído :heavy_check_mark:
 
-- [x] SPRINT 1 - 08/03 a 28/03
+- [x] SPRINT 1 - 08/03 a 28/03 ([Link da Pasta](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201)): Concluído :heavy_check_mark:
 
 - [x] SPRINT 2 - 29/03 a 18/04
 
@@ -71,15 +69,20 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 <br>
 
+## :link: Wireframe
+> [Clique para ver o protótipo do nosso site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
+
+<br> 
+
 ## :wrench: Tecnologias Utilizadas
 
-<h1 align="center"> <img src = ""/></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png"/></h1>
 
-* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams.
-* **Banco de Dados:** MySQL
-* **Back-end:** 
-* **Front-end:** 
-* **Ferramentas:** Github, Visual Studio Code e Figma
+* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
+* **Banco de Dados:** MySQL e Wampserver;
+* **Back-end:** PHP;
+* **Front-end:** HTML, CSS e JavaScript;
+* **Ferramentas:** Github, Visual Studio Code e Figma.
 
 <br>
 
