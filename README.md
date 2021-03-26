@@ -47,7 +47,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 - [x] KICK OFF - 28/02 a 06/03: Concluído :heavy_check_mark:
 
-- [x] SPRINT 1 - 08/03 a 28/03 ([Link da Pasta](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201)): Concluído :heavy_check_mark:
+- [x] ([SPRINT 1](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201)) - 08/03 a 28/03: Concluído :heavy_check_mark:
 
 - [x] SPRINT 2 - 29/03 a 18/04
 
