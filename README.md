@@ -61,7 +61,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 - [x] Feira de Soluções - 14/06 a 18/06
 
 
-<h1 align="left"> <img src = "/Imagens Gerais/cronograma+backlog.png" width="680" height="511"/></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
 
 <br>
 
