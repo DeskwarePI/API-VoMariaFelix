@@ -97,9 +97,9 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 <br>
 
-## :bar_chart: Backlog do Produto
+## :bar_chart: Backlog Total do Produto
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog.png" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total evolução.png" /></h1>
 
 <br>
 
