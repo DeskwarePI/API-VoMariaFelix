@@ -72,7 +72,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 ## :world_map: Mapa do Site
 
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem mapa do site.png" width="800" height="511" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png" height="511" /></h1>
 
 **:link: Wireframe**
 > [Clique para ver o protótipo do nosso site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
