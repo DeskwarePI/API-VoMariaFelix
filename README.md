@@ -13,8 +13,8 @@
   <a href ="#calendar-entregas"> Entregas </a>  • 
   <a href ="#file_folder-cards-das-sprints"> Cards </a>  •
   <a href = "#link-wireframe"> Wireframe </a> • 
-  <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
+  <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  • 
   <a href ="#world_map-mapa-do-site"> Mapa </a> •
   <a href ="#mortar_board-equipe"> Equipe </a> 
@@ -74,6 +74,12 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 <br> 
 
+## :bulb: Metodologia Utilizada
+
+* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+
+<br>
+
 ## :wrench: Tecnologias Utilizadas
 
 <img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png" width="850" height="450">
@@ -83,12 +89,6 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 * **Back-end:** PHP e JavaScript;
 * **Front-end:** HTML, CSS e JavaScript;
 * **Ferramentas:** Github, Visual Studio Code, Figma e Photoshop.
-
-<br>
-
-## :bulb: Metodologia Utilizada
-
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
 <br>
 
