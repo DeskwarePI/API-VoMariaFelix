@@ -99,7 +99,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 ## :bar_chart: Backlog Total do Produto
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total evolução.png" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total evolução.png" width="680" height="511"/></h1>
 
 <br>
 
