@@ -76,7 +76,7 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :wrench: Tecnologias Utilizadas
 
-<img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png" height="450">
+<img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png" width="850" height="450">
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:** MySQL e Wampserver;
