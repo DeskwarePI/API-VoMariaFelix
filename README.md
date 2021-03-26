@@ -29,8 +29,6 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 ## :pushpin: Objetivos
 Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
-<img src = "/Imagens Gerais/Imagem design sprint.png">
-
  **Requisitos Funcionais**
 
  - [ ] Cadastro de Participantes;
@@ -40,7 +38,9 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
  **Requisitos Não Funcionais**
  
  - [ ] Todos os conteúdos devem ser de autoria própria;
- - [ ] Site de caráter institucional.<br><br>
+ - [ ] Site de caráter institucional.
+
+ <img src = "/Imagens Gerais/Imagem design sprint.png">
 
 <br>
 
