@@ -76,13 +76,13 @@ Foi requisitado para nós desenvolvermos um site institucional que contenha inic
 
 ## :wrench: Tecnologias Utilizadas
 
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png"/></h1>
+<img src = "/Imagens Gerais/Imagem tecnologias utilizadas.png" height="450">
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:** MySQL e Wampserver;
-* **Back-end:** PHP;
+* **Back-end:** PHP e JavaScript;
 * **Front-end:** HTML, CSS e JavaScript;
-* **Ferramentas:** Github, Visual Studio Code e Figma.
+* **Ferramentas:** Github, Visual Studio Code, Figma e Photoshop.
 
 <br>
 
