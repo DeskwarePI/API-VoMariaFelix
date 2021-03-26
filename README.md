@@ -50,9 +50,9 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 - ☑️ [SPRINT 1](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201) - 08/03 a 28/03: Concluído :heavy_check_mark:
 
-- [x] SPRINT 2 - 29/03 a 18/04
+[x] SPRINT 2 - 29/03 a 18/04
 
-- [x] SPRINT 3 - 26/04 a 16/05
+[x] SPRINT 3 - 26/04 a 16/05
 
 - [x] SPRINT 4 - 17/05 a 05/06
 
