@@ -38,8 +38,8 @@
 <br>
 
 *Wireframe*
-> [Protótipo do Site]()
 > [Figma](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
+> [Pasta com o Protótipo](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/Layouts)
 
 <br>
 
