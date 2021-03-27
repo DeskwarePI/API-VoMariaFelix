@@ -8,18 +8,19 @@
 <hr>
 
 <p align="center">
-  <a href ="#ballot_box_with_check-entregas-da-sprint"> Entregas </a>  • 
+  <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
   <a href ="#world_map-mapa-do-site"> Mapa </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
+  <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
 </p>
 
-<h3 align="center"> SPRINT 1 </h3>
+<h1 align="center"> SPRINT 1 </h1>
 
 <br>
 
-## :ballot_box_with_check: Entregas da Sprint
+## :clipboard: Entregas da Sprint
 
-<h1 align="center"> <img src = "/Imagens Gerais/Imagem card1.png" width="710" height="420" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem card1.png" width="710" height="420" /></h1>
 
 <br>
 
@@ -73,6 +74,12 @@
 <h3 align="center"></h3>
 
 <h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+
+<br>
+
+## :chart_with_upwards_trend: Burndown
+
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem burndown.jpg"/></h1>
 
 <br>
 
