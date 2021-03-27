@@ -17,7 +17,7 @@
 <hr>
 
 <p align="center">
-      <h3 align="center"> SPRINT 1 :clock3: </h3>
+      <h3 align="center"> :clock3: SPRINT 1 :clock3: </h3>
 <p align="center">
 
 <br>
