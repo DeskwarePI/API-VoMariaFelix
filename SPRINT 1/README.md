@@ -30,7 +30,7 @@
 ## :information_source: Informações
 
 *Pitch*
-> [Apresentação]()
+> [Apresentação](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o.pdf)
 
 <br>
 
