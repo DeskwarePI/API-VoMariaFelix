@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
-  <a href ="#world_map-mapa-do-site"> Mapa </a>  • 
+  <a href ="#information_source-site"> Site </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
 </p>
@@ -28,7 +28,7 @@
 
 <br>
 
-## :world_map: Mapa do Site
+## :information_source: Site
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
