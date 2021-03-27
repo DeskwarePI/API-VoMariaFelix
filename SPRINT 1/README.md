@@ -14,7 +14,11 @@
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
 </p>
 
-<h1 align="center"> SPRINT 1 </h1>
+<hr>
+
+<p align="center">
+      <h3 align="center"> SPRINT 1 :clock3: </h3>
+<p align="center">
 
 <br>
 
