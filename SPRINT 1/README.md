@@ -11,8 +11,8 @@
   <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
   <a href ="#information_source-informações"> Info </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
-  <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
-  <h2 align="center"> :clock3: SPRINT 1 :clock3: </h2>
+  <a href ="#chart_with_upwards_trend-burndown"> Burndown </a> 
+  <h3 align="center"> :clock3: SPRINT 1 :clock3: </h3>
 
 
 </p>
