@@ -47,45 +47,45 @@
 
 <h3 align="center">Home</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifhome.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifhome.gif"/></h1>
 
 <br>
 
 <h3 align="center">Sobre Nós</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifsobrenos.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifsobrenos.gif"/></h1>
 
 <br>
 
 <h3 align="center">Ajude</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifvolapoio.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
 
 <br>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifvolespecifico.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifvolespecifico.gif"/></h1>
 
-<br
+<br>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifdoaçao.gif"/></h1>>
+<h1 align="center"> <img src = "/Layouts/gifdoaçao.gif"/></h1>>
 
 <br>
 
 <h3 align="center">Projetos</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/gifprojetos.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifprojetos.gif"/></h1>
 
 <br>
 
 <h3 align="center"></h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/.gif"/></h1>
 
 <br>
 
 <h3 align="center"></h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/.gif"/></h1>
 
 <br>
 
