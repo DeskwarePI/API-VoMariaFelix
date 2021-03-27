@@ -85,7 +85,7 @@
 
 <h3 align="center">Execução</h3>
 
-<h1 align="center"> <img src = "/Programação/gifoficial.gif"/></h1>
+<h1 align="center"> <img src = "/SPRINT 1/Programação/gifoficial.gif"/></h1>
 
 <br>
 
