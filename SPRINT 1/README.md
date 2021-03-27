@@ -19,7 +19,7 @@
 
 ## :ballot_box_with_check: Entregas da Sprint
 
-<h1 align="center"> <img src = "/Imagens Geral/Imagem card1.png" width="710" height="420" /></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem card1.png" width="710" height="420" /></h1>
 
 <br>
 
