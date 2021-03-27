@@ -17,7 +17,7 @@
 <hr>
 
 <p align="center">
-      <h3 align="center"> :clock3: SPRINT 1 :clock3: </h3>
+      <h2 align="center"> :clock3: SPRINT 1 :clock3: </h2>
 <p align="center">
 
 <br>
@@ -39,6 +39,9 @@
 
 *Wireframe*
 > [Figma](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
+
+<br>
+
 > [Pasta com o Protótipo](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/Layouts)
 
 <br>
