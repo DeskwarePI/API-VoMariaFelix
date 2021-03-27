@@ -67,7 +67,7 @@
 
 <br>
 
-<h1 align="center"> <img src = "/Layouts/gifdoaçao.gif"/></h1>>
+<h1 align="center"> <img src = "/Layouts/gifdoaçao.gif"/></h1>
 
 <br>
 
