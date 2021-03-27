@@ -12,13 +12,12 @@
   <a href ="#information_source-informações"> Info </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
+  <h2 align="center"> :clock3: SPRINT 1 :clock3: </h2>
+
+
 </p>
 
 <hr>
-
-<p align="center">
-      <h2 align="center"> :clock3: SPRINT 1 :clock3: </h2>
-<p align="center">
 
 <br>
 
@@ -29,8 +28,6 @@
 <br>
 
 ## :information_source: Informações
-
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
 *Pitch*
 > [Apresentação]()
@@ -48,27 +45,35 @@
 
 ## :computer: Layouts
 
-<h3 align="center"></h3>
+<h3 align="center">Home</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
-
-<br>
-
-<h3 align="center"></h3>
-
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/gifhome.gif"/></h1>
 
 <br>
 
-<h3 align="center"></h3>
+<h3 align="center">Sobre Nós</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/gifsobrenos.gif"/></h1>
 
 <br>
 
-<h3 align="center"></h3>
+<h3 align="center">Ajude</h3>
 
-<h1 align="center"> <img src = "/Imagens Gerais/.gif"/></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/gifvolapoio.gif"/></h1>
+
+<br>
+
+<h1 align="center"> <img src = "/Imagens Gerais/gifvolespecifico.gif"/></h1>
+
+<br
+
+<h1 align="center"> <img src = "/Imagens Gerais/gifdoaçao.gif"/></h1>>
+
+<br>
+
+<h3 align="center">Projetos</h3>
+
+<h1 align="center"> <img src = "/Imagens Gerais/gifprojetos.gif"/></h1>
 
 <br>
 
