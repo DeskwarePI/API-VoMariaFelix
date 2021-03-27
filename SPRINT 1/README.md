@@ -1,6 +1,31 @@
-## :ballot_box_with_check: SPRINT 1
+<br>
+
+<p align="center">
+      <img src="/Imagens Gerais/Logo.jpg" width="300" height="250">
+      <h3 align="center"> ONG Vó Maria Félix </h3>
+<p align="center">
+
+<hr>
+
+<p align="center">
+  <a href ="#ballot_box_with_check-entregas-da-sprint"> Entregas </a>  • 
+  <a href ="#world_map-mapa-do-site"> Mapa </a>  • 
+  <a href ="#computer-layouts"> Layouts </a>  • 
+</p>
+
+<h3 align="center"> SPRINT 1 </h3>
+
+<br>
+
+## :ballot_box_with_check: Entregas da Sprint
 
 <h1 align="center"> <img src = "/Imagens Geral/Imagem card1.png" width="710" height="420" /></h1>
+
+<br>
+
+## :world_map: Mapa do Site
+
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
 *Pitch*
 > [Apresentação]()

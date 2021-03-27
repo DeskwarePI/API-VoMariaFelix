@@ -11,7 +11,6 @@
   <a href ="#briefcase-o-projeto"> Projeto </a>  • 
   <a href ="#pushpin-objetivos"> Objetivos </a>  • 
   <a href ="#calendar-entregas"> Entregas </a>  • 
-  <a href ="#world_map-mapa-do-site"> Mapa </a> • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-total"> Backlog </a>  • 
@@ -63,15 +62,6 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
 
 <br>
-
-## :world_map: Mapa do Site
-
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
-
-**:link: Wireframe**
-> [Clique para ver o protótipo do nosso site](https://www.figma.com/file/4MFhixEdbm4p40RR8YINfo/ONG-V%C3%B3-Maria-F%C3%A9lix?node-id=0%3A1)
-
-<br> 
 
 ## :bulb: Metodologia Utilizada
 
