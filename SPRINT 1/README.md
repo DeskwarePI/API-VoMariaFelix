@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
-  <a href ="#information_source-site"> Site </a>  • 
+  <a href ="#information_source-informações"> Info </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a>  • 
 </p>
@@ -28,7 +28,7 @@
 
 <br>
 
-## :information_source: Site
+## :information_source: Informações
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
