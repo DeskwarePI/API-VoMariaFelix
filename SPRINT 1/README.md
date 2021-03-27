@@ -73,19 +73,19 @@
 
 <h3 align="center">Projetos</h3>
 
-<h1 align="center"> <img src = "/Layouts/gifprojetos.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifprojeto.gif"/></h1>
 
 <br>
 
-<h3 align="center"></h3>
+<h3 align="center">Login + Controle do Administrador</h3>
 
-<h1 align="center"> <img src = "/Layouts/.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/giflogin e bd.gif"/></h1>
 
 <br>
 
-<h3 align="center"></h3>
+<h3 align="center">Execução</h3>
 
-<h1 align="center"> <img src = "/Layouts/.gif"/></h1>
+<h1 align="center"> <img src = "/Layouts/gifoficial.gif"/></h1>
 
 <br>
 
