@@ -11,6 +11,7 @@
   <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
   <a href ="#information_source-informações"> Info </a>  • 
   <a href ="#computer-layouts"> Layouts </a>  • 
+  <a href ="#gear-execução"> Execução </a> • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a> 
   <h3 align="center"> :clock3: SPRINT 1 :clock3: </h3>
 
@@ -99,9 +100,7 @@
 
 <br>
 
-<h3 align="center">Execução</h3>
-
-<hr>
+## :gear: Execução
 
 <h1 align="center"> <img src = "/SPRINT 1/Programação/gifoficial.gif"/></h1>
 
