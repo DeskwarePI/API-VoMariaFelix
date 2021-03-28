@@ -79,8 +79,6 @@
 
 <h4 align="center">Doação</h4>
 
-<hr>
-
 <h1 align="center"> <img src = "/Layouts/gifdoaçao.gif"/></h1>
 
 <br>
