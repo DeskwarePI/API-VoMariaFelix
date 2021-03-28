@@ -113,9 +113,6 @@
 
 <br>
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem burndown.jpg"/></h1>
-<br>
-
  <h1 align="center"> <img src = "/Imagens Gerais/Fatec.jpg" height="90" /></h1>
  
  <h5 align="center"> <img src = "/Imagens Gerais/faTec.png" width="20" height="20" /> Projeto Integrador 2021 - Fatec São José dos Campos </h5>
