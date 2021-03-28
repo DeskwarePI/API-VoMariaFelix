@@ -47,11 +47,15 @@
 
 <h3 align="center">Home</h3>
 
+<hr>
+
 <h1 align="center"> <img src = "/Layouts/gifhome.gif"/></h1>
 
 <br>
 
 <h3 align="center">Sobre Nós</h3>
+
+<hr>
 
 <h1 align="center"> <img src = "/Layouts/gifsobrenos.gif"/></h1>
 
@@ -59,15 +63,23 @@
 
 <h3 align="center">Ajude</h3>
 
+<hr>
+
 <h4 align="center">Voluntário de Apoio</h4>
 
 <h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
 
 <br>
 
+<h4 align="center">Voluntário Específico</h4>
+
 <h1 align="center"> <img src = "/Layouts/gifvolespecifico.gif"/></h1>
 
 <br>
+
+<h4 align="center">Doação</h4>
+
+<hr>
 
 <h1 align="center"> <img src = "/Layouts/gifdoaçao.gif"/></h1>
 
@@ -75,17 +87,23 @@
 
 <h3 align="center">Projetos</h3>
 
+<hr>
+
 <h1 align="center"> <img src = "/Layouts/gifprojeto.gif"/></h1>
 
 <br>
 
 <h3 align="center">Login + Controle do Administrador</h3>
 
+<hr>
+
 <h1 align="center"> <img src = "/Layouts/giflogin e bd.gif"/></h1>
 
 <br>
 
 <h3 align="center">Execução</h3>
+
+<hr>
 
 <h1 align="center"> <img src = "/SPRINT 1/Programação/gifoficial.gif"/></h1>
 
