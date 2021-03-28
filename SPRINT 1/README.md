@@ -59,6 +59,8 @@
 
 <h3 align="center">Ajude</h3>
 
+<h4 align="center">Voluntário de Apoio</h4>
+
 <h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
 
 <br>
@@ -93,6 +95,9 @@
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem burndown.jpg"/></h1>
 
+<br>
+
+<h1 align="left"> <img src = "/Imagens Gerais/Imagem burndown.jpg"/></h1>
 <br>
 
  <h1 align="center"> <img src = "/Imagens Gerais/Fatec.jpg" height="90" /></h1>
