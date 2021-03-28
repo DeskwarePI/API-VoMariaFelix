@@ -113,7 +113,7 @@
 
 <br>
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem divisão.png" width="710" height="420"/></h1>
+<h1 align="center"> <img src = "/Imagens Gerais/Imagem divisão.png"/></h1>
 
 <br>
 
