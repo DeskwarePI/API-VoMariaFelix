@@ -28,7 +28,7 @@ Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Mari
 <br>
 
 ## :pushpin: Objetivos
-Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
+Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infantis, visando facilitar o contato da instituição com os seus alunos e voluntários. Temos as seguintes exigências:
 
  **Requisitos Funcionais**
 

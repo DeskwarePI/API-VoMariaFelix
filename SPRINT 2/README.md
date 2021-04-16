@@ -64,6 +64,18 @@
 
 <br>
 
+<br>
+
+<h3 align="center">Cadastre-se como</h3>
+
+<hr>
+
+<h4 align="center"> Cadastro Participante</h4>
+
+<h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
+
+<br>
+
 <h4 align="center"> Cadastro de Voluntário de Apoio</h4>
 
 <h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
