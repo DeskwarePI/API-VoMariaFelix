@@ -42,7 +42,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/Layouts/gifhome.gif"/></h1>
+<h1 align="center"> <img src = "/Execução/home.gif"/></h1>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/Layouts/gifsobrenos.gif"/></h1>
+<h1 align="center"> <img src = "/Execução/sobre.gif"/></h1>
 
 <br>
 
