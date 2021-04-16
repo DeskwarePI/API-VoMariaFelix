@@ -42,7 +42,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/Execução/home.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/home.gif"/></h1>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/Execução/sobre.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/sobre.gif"/></h1>
 
 <br>
 
