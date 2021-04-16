@@ -51,7 +51,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 - [x] [SPRINT 1](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201) - 08/03 a 28/03: Concluído :heavy_check_mark:
 
-- [x] SPRINT 2 - 29/03 a 18/04
+- [x] [SPRINT 2] (https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
 
 - [x] SPRINT 3 - 26/04 a 16/05
 
@@ -70,6 +70,9 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
+<br>
+*Diagrama*
+> [Diagrama](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Diagrama.pdf)
 <br>
 
 ## :bulb: Metodologia Utilizada
@@ -104,10 +107,9 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 |**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/)|[@GitHub](https://github.com/GustavoAndo)|<img src = "/Imagens Gerais/Gustavo.jpeg">|
 |**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub](https://github.com/jufaela)|<img src = "/Imagens Gerais/Júlia.jpeg">|
 |**Kauã Renó**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/)|[@GitHub](https://github.com/Kaua-Reno)|<img src = "/Imagens Gerais/Kauã.jpeg">|
-|**Lucas Moreira**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "/Imagens Gerais/Lucas.jpg">|
-|**Maria Braga**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub](https://github.com/madu-braga)|<img src = "/Imagens Gerais/Maria.jpeg">|
-|**Rafaela Silva**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub](https://github.com/rpssky)|<img src = "/Imagens Gerais/Rafaela.jpeg">|
-|**Tainara Santos**|Desenvolvedor 7|[@LinkedIn](https://www.linkedin.com/in/tainara-s-952573200/)|[@GitHub](https://github.com/Tainara03)|<img src = "/Imagens Gerais/Tainara.jpeg">|
+|**Maria Braga**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub](https://github.com/madu-braga)|<img src = "/Imagens Gerais/Maria.jpeg">|
+|**Rafaela Silva**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub](https://github.com/rpssky)|<img src = "/Imagens Gerais/Rafaela.jpeg">|
+|**Tainara Santos**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/tainara-s-952573200/)|[@GitHub](https://github.com/Tainara03)|<img src = "/Imagens Gerais/Tainara.jpeg">|
 
 <br>
 
