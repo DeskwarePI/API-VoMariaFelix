@@ -92,7 +92,7 @@
 
 ## :chart_with_upwards_trend: Burndown
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem burndown.jpg"/></h1>
+<h1 align="left"> <img src = "/Documentação/burndown-sprint2.jpg"/></h1>
 
 <br>
 
