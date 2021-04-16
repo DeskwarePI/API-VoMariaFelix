@@ -60,7 +60,7 @@
 
 <h4 align="center"> Página Voluntários</h4>
 
-<h1 align="center"> <img src = "/Layouts/gifvolapoio.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/voluntario.gif"/></h1>
 
 <br>
 
