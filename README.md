@@ -25,6 +25,10 @@
 ## :briefcase: O Projeto
 Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
 
+*Documentação*
+> [Documentação](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Diagrama.pdf)
+
+
 <br>
 
 ## :pushpin: Objetivos
