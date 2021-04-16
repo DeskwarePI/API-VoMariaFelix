@@ -92,7 +92,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/Layouts/giflogin e bd.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/login-adm.gif"/></h1>
 
 <br>
 
