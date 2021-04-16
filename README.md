@@ -51,7 +51,7 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 - [x] [SPRINT 1](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201) - 08/03 a 28/03: Concluído :heavy_check_mark:
 
-- [x] [SPRINT 2] (https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
+- [x] [SPRINT 2](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
 
 - [x] SPRINT 3 - 26/04 a 16/05
 
@@ -70,7 +70,6 @@ Foi requisitado para nós desenvolvermos um site, que contenha inicialmente:
 
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
-<br>
 *Diagrama*
 > [Diagrama](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Diagrama.pdf)
 <br>

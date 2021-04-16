@@ -24,7 +24,7 @@
 
 ## :clipboard: Entregas da Sprint
 
-<h1 align="left"> <img src = "/Imagens Gerais/Card2.png" width="710" height="420" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/card2.png" width="710" height="420" /></h1>
 
 <br>
 
