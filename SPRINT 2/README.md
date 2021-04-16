@@ -10,10 +10,10 @@
 <p align="center">
   <a href ="#clipboard-entregas-da-sprint"> Entregas </a>  • 
   <a href ="#information_source-informações"> Info </a>  • 
-  <a href ="#computer-layouts"> Layouts </a>  • 
-  <a href ="#gear-execução"> Execução </a> • 
+  <a href ="#computer-Execuções"> Execuções</a>  • 
+  <a href ="#gear-execução-geral"> Execução Geral </a> • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a> 
-  <h3 align="center"> :clock3: SPRINT 1 :clock3: </h3>
+  <h3 align="center"> :clock3: SPRINT 2 :clock3: </h3>
 
 
 </p>
