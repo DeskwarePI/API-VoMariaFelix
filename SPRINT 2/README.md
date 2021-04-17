@@ -74,19 +74,19 @@
 
 <hr>
 
-<h4 align="center"> Cadastro Participante</h4>
+<h4 align="center"> Participante</h4>
 
 <h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/participante.gif"/></h1>
 
 <br>
 
-<h4 align="center"> Cadastro de Voluntário de Apoio</h4>
+<h4 align="center"> Voluntário de Apoio</h4>
 
 <h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/apoio.gif"/></h1>
 
 <br>
 
-<h4 align="center"> Cadastro de Voluntário Específico</h4>
+<h4 align="center"> Voluntário Específico</h4>
 
 <h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/espec%C3%ADfico.gif"/></h1>
 
