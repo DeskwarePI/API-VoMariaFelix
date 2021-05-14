@@ -35,9 +35,9 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
  **Requisitos Funcionais**
 
- - [X] Cadastro de Participantes;
- - :heavy_check_mark: Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio)
- - [ ] Cadastro de Projetos.
+ :heavy_check_mark: Cadastro de Participantes;
+ :heavy_check_mark: Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio)
+ :heavy_check_mark: Cadastro de Projetos.
 
  **Requisitos Não Funcionais**
  
