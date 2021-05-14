@@ -66,7 +66,7 @@
 
 ## :chart_with_upwards_trend: Burndown
 
-<h1 align="left"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/main/Imagens%20Gerais/burndown%203.png"/></h1>
+<h1 align="left"> <img src = "/SPRINT 3/Documentação/burndown-sprint2.png"/></h1>
 
 <br>
 
