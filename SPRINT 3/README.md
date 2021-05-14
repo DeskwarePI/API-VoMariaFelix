@@ -66,7 +66,7 @@
 
 ## :chart_with_upwards_trend: Burndown
 
-<h1 align="left"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Documenta%C3%A7%C3%A3o/burndown-sprint2.png"/></h1>
+<h1 align="left"> <img src = ""/></h1>
 
 <br>
 
