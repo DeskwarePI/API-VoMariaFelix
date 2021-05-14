@@ -25,7 +25,7 @@
 ## :briefcase: O Projeto
 Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
 
-> [Documentação](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3o.pdf)
+> [Documentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/main/SPRINT%203/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3o.pdf)
 
 
 <br>
@@ -35,8 +35,8 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
  **Requisitos Funcionais**
 
- - [ ] Cadastro de Participantes;
- - [ ] Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio)
+ - [X] Cadastro de Participantes;
+ - :heavy_check_mark: Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio)
  - [ ] Cadastro de Projetos.
 
  **Requisitos Não Funcionais**
@@ -56,7 +56,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 - [x] [SPRINT 2](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
 
-- [x] SPRINT 3 - 26/04 a 16/05
+- [x] [SPRINT 3](https://github.com/DeskwarePI/API-VoMariaFelix/tree/main/SPRINT%203) - 26/04 a 16/05: Concluído :heavy_check_mark:
 
 - [x] SPRINT 4 - 17/05 a 05/06
 
@@ -105,13 +105,11 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Luciana Bezerra**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/luciana-bezerra-da-silva-8809a5206/)|[@GitHub](https://github.com/Luciana013)|<img src = "/Imagens Gerais/Luciana.jpeg">
+|**Kauã Renó**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/)|[@GitHub](https://github.com/Kaua-Reno)|<img src = "/Imagens Gerais/Kauã.jpeg">|
 |**Gustavo Ando**|Desenvolvedor 1|[@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/)|[@GitHub](https://github.com/GustavoAndo)|<img src = "/Imagens Gerais/Gustavo.jpeg">|
 |**Júlia Andrade**|Desenvolvedor 2|[@LinkedIn]()|[@GitHub](https://github.com/jufaela)|<img src = "/Imagens Gerais/Júlia.jpeg">|
-|**Kauã Renó**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/)|[@GitHub](https://github.com/Kaua-Reno)|<img src = "/Imagens Gerais/Kauã.jpeg">|
-|**Maria Braga**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub](https://github.com/madu-braga)|<img src = "/Imagens Gerais/Maria.jpeg">|
-|**Rafaela Silva**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub](https://github.com/rpssky)|<img src = "/Imagens Gerais/Rafaela.jpeg">|
-|**Tainara Santos**|Desenvolvedor 6|[@LinkedIn](https://www.linkedin.com/in/tainara-s-952573200/)|[@GitHub](https://github.com/Tainara03)|<img src = "/Imagens Gerais/Tainara.jpeg">|
+|**Maria Braga**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/)|[@GitHub](https://github.com/madu-braga)|<img src = "/Imagens Gerais/Maria.jpeg">|
+|**Rafaela Silva**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/rafaela-s-b2a39a1bb/)|[@GitHub](https://github.com/rpssky)|<img src = "/Imagens Gerais/Rafaela.jpeg">|
 
 <br>
 
