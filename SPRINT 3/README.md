@@ -13,7 +13,7 @@
   <a href ="#computer-Execuções"> Execuções</a>  • 
   <a href ="#gear-execução-geral"> Execução Geral </a> • 
   <a href ="#chart_with_upwards_trend-burndown"> Burndown </a> 
-  <h3 align="center"> :clock3: SPRINT 2 :clock3: </h3>
+  <h3 align="center"> :clock3: SPRINT 3 :clock3: </h3>
 
 
 </p>
@@ -24,7 +24,7 @@
 
 ## :clipboard: Entregas da Sprint
 
-<h1 align="left"> <img src = "/Imagens Gerais/card3.png" width="710" height="420" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/card3.png" height="420" /></h1>
 
 <br>
 
