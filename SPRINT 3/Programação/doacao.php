@@ -29,7 +29,7 @@
                 <li><a href="indexapoio.php">Seja doador</a></li>
                 </ul>
 		    <li><a href="indexprojetospag.html">Projetos</a></li>
-		    <li><a href="adm.html">Minha conta</a></li>
+		    <li><a href="indexlogin.html">Login</a></li>
             </h1></li>
         </ul>
         </nav>
