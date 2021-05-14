@@ -24,7 +24,7 @@
 
 ## :clipboard: Entregas da Sprint
 
-<h1 align="left"> <img src = "/Imagens Gerais/card2.png" width="710" height="420" /></h1>
+<h1 align="left"> <img src = "/Imagens Gerais/card3.png" width="710" height="420" /></h1>
 
 <br>
 
@@ -42,7 +42,7 @@
 
 ## :computer: Execuções
 
-<h3 align="center">Home</h3>
+<h3 align="center">Página Seja Doador</h3>
 
 <hr>
 
@@ -50,53 +50,11 @@
 
 <br>
 
-<h3 align="center">Sobre Nós</h3>
+<h3 align="center">Página Projetos</h3>
 
 <hr>
 
 <h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/sobre.gif"/></h1>
-
-<br>
-
-<h3 align="center">Ajude</h3>
-
-<hr>
-
-<h4 align="center"> Página Voluntários</h4>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/voluntario.gif"/></h1>
-
-<br>
-
-<br>
-
-<h3 align="center">Cadastre-se como</h3>
-
-<hr>
-
-<h4 align="center"> Participante</h4>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/participante.gif"/></h1>
-
-<br>
-
-<h4 align="center"> Voluntário de Apoio</h4>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/apoio.gif"/></h1>
-
-<br>
-
-<h4 align="center"> Voluntário Específico</h4>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/espec%C3%ADfico.gif"/></h1>
-
-<br>
-
-<h3 align="center">Login + Controle do Administrador</h3>
-
-<hr>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/login-adm.gif"/></h1>
 
 <br>
 
