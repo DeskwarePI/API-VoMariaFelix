@@ -35,7 +35,7 @@
 
 <br>
 
-> [Portifólio](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202/Execu%C3%A7%C3%A3o)
+> [Portifólio](https://github.com/DeskwarePI/API-VoMariaFelix/tree/main/SPRINT%203/Execu%C3%A7%C3%A3o)
 
 <br>
 
@@ -54,7 +54,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%202/Execu%C3%A7%C3%A3o/sobre.gif"/></h1>
+<h1 align="center"> <img src = "/SPRINT 3/Execução/Página projeos.gif"/></h1>
 
 <br>
 
