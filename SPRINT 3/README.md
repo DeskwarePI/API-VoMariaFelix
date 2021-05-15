@@ -54,7 +54,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/SPRINT 3/Execução/Página projeos.gif"/></h1>
+<h1 align="center"> <img src = "/SPRINT 3/Execução/Página projetos.gif"/></h1>
 
 <br>
 
