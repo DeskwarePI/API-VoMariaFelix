@@ -60,6 +60,8 @@
 
 ## :gear: Execução Geral
 
+<hr>
+
 <h1 align="center"> <img src = "/SPRINT 3/Execução/sprint2.gif"/></h1>
 
 <br>
