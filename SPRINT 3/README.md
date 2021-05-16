@@ -62,10 +62,6 @@
 
 <hr>
 
-<h1 align="center"> <img src = "/SPRINT 3/Execução/sprint2.gif"/></h1>
-
-<br>
-
 <h1 align="center"> <img src = "/SPRINT 3/Execução/Execução total.gif"/></h1>
 
 <br>
