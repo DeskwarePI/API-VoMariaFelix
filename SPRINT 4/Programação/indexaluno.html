@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="aluno.css">
+    <link rel="stylesheet" href="chat.css" />
     <link rel="icon" href="./foto.png" type="image/png">
     <title>Área do Aluno</title>
 </head>
@@ -154,8 +155,47 @@
                   <br><br><br>
         </div>
     </div>     
-    <div id="chat">
-        <img src="chat.png" width="95" height="70">
+    <div class="container2">
+        <div class="top">
+            <div class="perfil">
+                <div class="foto">
+                    <img src="ilustras-chatbot.png" height="40">                       
+                 </div>
+                 <div class="nome">
+                    Atendente
+                </div>
+                <div class="estado">
+                    Online
+                </div>
+            </div>
+            <div class="sair">
+            </div>
+        </div>
+        <div class="bottom">
+        <div id="container3" class="container3">
+            <div id="chat" class="chat">
+                <div id="messages" class="messages"></div>
+                <input id="input" type="text" placeholder="Envie uma mensagem..." autocomplete="off" autofocus="false" />
+            </div>
+            <button id="ok" class="ok">
+                <div class="botao2">
+                    <img src="seta.png" width="40" height="40">
+                </div>
+            </button>
+        </div>
     </div>
+    </div>
+    <button id='btn-div'>
+        <div class="chat2">
+            <img src="chat.png" width="108" height="75">
+        </div>
+        <div class="exit">
+            <img src="sair2.png" width="35" height="35">
+        </div>
+    </button>
+<script type="text/javascript" src="chat.js"></script>
+<script type="text/javascript" src="index.js" ></script>
+<script type="text/javascript" src="constants.js" ></script>
+<script type="text/javascript" src="speech.js" ></script>
 </body>
 </html>
