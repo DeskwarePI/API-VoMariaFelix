@@ -27,10 +27,11 @@
 	  		<li><a href="#">Ajude</a>
                 <ul class="sub">
                 <li><a href="indexvolunt.html">Voluntário</a></li>
-                <li><a href="indexapoio.php">Seja doador</a></li>
+                <li><a href="doacao.php">Seja doador</a></li>
                 </ul>
 		    <li><a href="indexprojetospag.html">Projetos</a></li>
-		    <li><a href="indexlogin.html">Login</a></li>
+		    <li><a href="tipo.html">Cadastros</a></li>
+            <li><a href="indexaluno.html">Alunos</a></li>
             </h1></li>
         </ul>
         </nav>
