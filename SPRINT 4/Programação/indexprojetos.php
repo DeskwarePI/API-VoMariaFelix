@@ -311,7 +311,12 @@
         <label for="anexo">Documento/Projeto</label>
         <input type="file" name="anexo" id="anexo">
     </div>
+    <div class="full-box">
+      <label for="email">E-mail para contato</label>
+      <input type="email" name="email" id="email" placeholder="Ex: jose.ferreira@gmail.com" required>
+    </div>
     <div class="middle-box">
+      <br><br>
       <input id="btn-submit" type="submit" value="Cadastrar">
     </div><br><br>
       </form>

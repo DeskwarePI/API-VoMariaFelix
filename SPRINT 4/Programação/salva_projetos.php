@@ -5,8 +5,9 @@
 	$caracteristicas = $_POST['características'];
     $envolvidos = $_POST['envolvidos'];
 	$anexo = $_POST['anexo'];
+	$email = $_POST['email'];
 	
-	$result_msg_contato = "INSERT INTO `projetos` (id, objetivos, diferencial, `características`, envolvidos, anexo) VALUES ('', '$objetivos', '$diferencial', '$caracteristicas', '$envolvidos', '$anexo')";
+	$result_msg_contato = "INSERT INTO `projetos` (id, objetivos, diferencial, `características`, envolvidos, anexo, email) VALUES ('', '$objetivos', '$diferencial', '$caracteristicas', '$envolvidos', '$anexo', '$email')";
 	$resultado_msg_contato= mysqli_query($conn, $result_msg_contato);
 
 	if($result_msg_contato){
@@ -16,6 +17,7 @@
 		$_SESSION['características'] = $_POST['características'];
 		$_SESSION['envolvidos'] = $_POST['envolvidos'];
 		$_SESSION['anexo'] = $_POST['anexo'];
+		$_SESSION['email'] = $_POST['email'];
 		
 		echo 'Projeto enviado para análise!';
 	} else{
