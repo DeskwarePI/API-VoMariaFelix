@@ -16,91 +16,13 @@ body{
     padding-top: 1px;
 }
 
-.menu ul li{
-	background-color: white;
-	width: 205px;
-	height: 20px;
-	display: inline-block;
-	text-align: center;
-	line-height: 40px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-	position: relative;
-}
-
-.menu ul{
-    padding: 0;
-}
-
-.menu ul li:hover{
-	background-color:white;
-}
-
-.menu ul ul{
-	display: none;
-    padding-top: 5px;
-}
-
-.menu ul li:hover > ul{
-	display:block;
-}
-
-
-.menu ul ul li:hover{
-	background-color: #f8edeb;
-}
-
-
-.menu a{
-	color: tomato;
-	text-decoration: none;
-}
-
-
-li{
-    float: left;
-    text-align: center;
-    margin-left: 30px;
-    width: 16%;
-    list-style: none;
-}
-
-.logo{
-    float: left;
-    padding:15px;
-}
-
-a{
-    text-decoration: none;
-    color: tomato;
-}
-
-#inicio{
+#comeco5{
     background-color: white;
     width: 85%;
-    height: 1760px; 
+    height: 2750px; 
     position: absolute;
-	left: 100px;
+    left: 100px;
     top: 180px;
-}
-
-ol{
-    text-align: center;
-    display: inline-block;
-    margin: 0;
-}
-
-.menu2{
-    margin-top: 40px;
-    margin-bottom: 60px;
-    margin-right: 60px;
-    list-style: none;
-    text-align: center;
-    border: 2px solid #000; 
-    height: 55px;
-    align-items: center;
-    width: 86%;
-    margin-left: 70px;
 }
 
 p{
@@ -118,17 +40,17 @@ p{
 }
 
 .req ul li{
-	width: 200px;
-	height: 50px;
-	display: inline-block;
-	text-align: center;
-	line-height: 25px;
-	font-size: 25px;
-	position: relative;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    line-height: 25px;
+    font-size: 25px;
+    position: relative;
 }
 
 .req ul ul{
-	display: none;
+    display: none;
 }
 
 .req ul{
@@ -136,22 +58,22 @@ p{
 }
 
 .req ul li:hover > ul{
-	display:block;
+    display:block;
 }
 
 .req2 ul li{
-	width: 200px;
-	height: 50px;
-	display: inline-block;
-	text-align: center;
-	line-height: 25px;
-	font-size: 25px;
-	position: relative;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    line-height: 25px;
+    font-size: 25px;
+    position: relative;
 }
 
 
 .req2 ul ul{
-	display: none;
+    display: none;
 }
 
 .req2 ul{
@@ -159,7 +81,7 @@ p{
 }
 
 .req2 ul li:hover > ul{
-	display:block;
+    display:block;
 }
 
 #caixa2{
@@ -250,4 +172,24 @@ h5:hover {
 .rodape{
     text-align: center;
     margin-top: 2%;
+}
+
+.menu2{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-right: 80px;
+    list-style: none;
+    text-align: center;
+    height: 75px;
+    border: 2px solid #000; 
+    height: 55px;
+    align-items: center;
+    width: 84%;
+    margin-left: 90px;
+}
+
+ol{
+    text-align: center;
+    display: inline-block;
+    margin: 0;
 }

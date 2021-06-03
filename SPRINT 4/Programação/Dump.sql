@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 8.0.23, for Win64 (x86_64)
+-- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
 --
 -- Host: localhost    Database: ong
 -- ------------------------------------------------------
--- Server version	5.7.31
+-- Server version	8.0.21
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -23,13 +23,13 @@ DROP TABLE IF EXISTS `doações`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `doações` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `nome` varchar(30) DEFAULT NULL,
   `descrição` text,
   `comprovante` longblob NOT NULL,
   `anonimo` varchar(3) DEFAULT 'Não',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -49,7 +49,7 @@ DROP TABLE IF EXISTS `participantes`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `participantes` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `aluno` varchar(45) NOT NULL,
   `data de nascimento` date DEFAULT NULL,
   `responsável` varchar(45) NOT NULL,
@@ -82,13 +82,12 @@ DROP TABLE IF EXISTS `projetos`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `projetos` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `objetivos` text NOT NULL,
   `diferencial` text NOT NULL,
   `características` text NOT NULL,
   `envolvidos` text NOT NULL,
   `anexo` longblob,
-  `email` varchar(40) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -99,7 +98,7 @@ CREATE TABLE `projetos` (
 
 LOCK TABLES `projetos` WRITE;
 /*!40000 ALTER TABLE `projetos` DISABLE KEYS */;
-INSERT INTO `projetos` VALUES (1,'abc','def','ghi','jhl',_binary 'ADM III - prof. Geraldo.pdf','');
+INSERT INTO `projetos` VALUES (1,'abc','def','ghi','jhl',_binary 'ADM III - prof. Geraldo.pdf');
 /*!40000 ALTER TABLE `projetos` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -111,7 +110,7 @@ DROP TABLE IF EXISTS `voluntário de apoio`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `voluntário de apoio` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `nome` varchar(45) NOT NULL,
   `data de nascimento` date DEFAULT NULL,
   `cpf` varchar(15) NOT NULL,
@@ -144,7 +143,7 @@ DROP TABLE IF EXISTS `voluntário específico`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `voluntário específico` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `nome` varchar(45) NOT NULL,
   `data de nascimento` date DEFAULT NULL,
   `cpf` varchar(15) NOT NULL,
@@ -153,7 +152,7 @@ CREATE TABLE `voluntário específico` (
   `telefone` varchar(12) DEFAULT NULL,
   `currículo` longblob NOT NULL,
   `certificado` longblob,
-  `experiência` text NOT NULL,
+  `experiência` text CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `horários disponíveis` varchar(10) NOT NULL,
   `características` text NOT NULL,
   `objetivos` text NOT NULL,
@@ -180,4 +179,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-06-01 10:09:50
+-- Dump completed on 2021-05-12 11:18:44

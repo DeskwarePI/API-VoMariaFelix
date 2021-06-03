@@ -17,4 +17,10 @@ if(chat2.style.display === 'none') {
 } else {
     exit.style.display = 'none';
 }
+
+if(container2.style.display === 'block') {
+    carousel-control.style.position == 'fixed';
+} else {
+    carousel-control.style.position == 'absolute';
+}
 });

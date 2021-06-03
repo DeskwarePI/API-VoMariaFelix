@@ -9,8 +9,554 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="doacao.css">
-    <link rel="stylesheet" href="chat.css" />
     <link rel="icon" href="./foto.png" type="image/png">
+    <style>
+    #comeco{
+    background-color: white;
+    width: 85%;
+    height: 100%; 
+    position: absolute;
+	left: 100px;
+    top: 180px;
+}
+
+.doacao{
+    background-color: #fff;
+    width: 100%;
+    float: right;
+    color: #293241;
+    margin-left:0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    height: 20%;
+}
+
+.local{
+  margin-top: 30px;
+  width: 100%; 
+  background-color: #fff;
+  height: 390px;
+  position: absolute;
+  float: left;
+}
+
+.pix{
+    margin-left: 90px;
+    width: 40%; 
+    height: 390px;
+    position: relative;
+    float: left;
+    padding-left: 5px;
+    background-color: #fff;
+    text-align: justify;;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.cartao{
+    width: 40%; 
+    background-color: #fff;
+    height: 53%;
+    position: right;
+    float: right;
+    text-align: justify;
+    padding: 20px;
+    padding-left: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.doadores{
+    background: url('azul.png');
+    width: 100%;
+    height: 600px;
+    color: #293241;
+    margin-left:0px;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+
+
+#caixa3{
+  position: relative;
+  width: 280px;
+  height: 330px;
+  border: 4px solid black;
+  margin-left: 10%;
+  bottom: -100px; 
+  margin-top: -50px;
+}
+
+#caixa4{
+  position: relative;
+  width: 280px;
+  height: 330px;
+  margin-left: 40%;
+  border: 4px solid black;
+  bottom: -100px; 
+  margin-top: -338px;
+}
+
+#caixa5{
+  position: relative;
+  width: 280px;
+  height: 330px;
+  border: 4px solid black;
+  margin-left: 70%;
+  bottom: -100px; 
+  margin-top: -338px;
+}
+
+h4{
+    font-size: 36px;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+h3{
+    font-size: 22px;
+    color: #293241;
+    font-family: Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+
+ol{
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+}
+
+.menu2{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-right: 80px;
+    list-style: none;
+    text-align: center;
+    height: 75px;
+    border: 2px solid #000; 
+    height: 55px;
+    align-items: center;
+    width: 84%;
+    margin-left: 90px;
+}
+
+h5{
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    font-family: Helvetica, sans-serif;
+    margin-top: 0px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h5:hover {
+    color: tomato;
+  }
+
+h6{
+    text-decoration: none;
+    color: #000;
+    font-size: 17px;
+    font-family: Helvetica,sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.texto{
+    color: #000;
+    margin-top: 38%;
+    font-size: 28px;
+    font-family: Helvetica,sans-serif;
+    text-align: center;
+}
+
+.odoacao{
+    background: url('verde.png');
+    width: 100%;
+    float: right;
+    color: #293241;
+    margin-left:0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    height: 770px;
+    margin-bottom: 60px;
+}
+
+.imagem{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.texto6{
+    color: tomato;
+    font-size: 22px;
+    font-family: Helvetica,sans-serif;
+    text-align: center;
+    margin: 0;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+.rodape{
+    margin-top: 0px;
+}
+
+.maneiras{
+    width: 100%; 
+    background-color:#95d5b2;
+    height: 300px;
+    padding: 0;
+}
+
+.relatorios1{
+    width: 50%; 
+    background-color: #000;
+    height: 300px;
+    float: left;
+    position: relative;
+}
+
+.relatorios2{
+    width: 50%; 
+    background: url('verde.png');
+    float: right;
+    position: relative;
+    height: 300px;
+}
+
+.relatorio1{
+    width: 50%; 
+    background: url('verde.png');
+    height: 300px;
+    float: left;
+    position: relative;
+}
+
+.relatorio2{
+    width: 50%; 
+    background: url('verde.png');
+    float: right;
+    position: relative;
+    height: 300px;
+}
+
+.texto2{
+    text-align: center;
+    font-size: 20px;
+    font-family: Helvetica,sans-serif;
+}
+  
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /*criar espaço autom qdo dois input estiverem juntos*/
+  }
+
+  .full-box {
+    flex: 1 1 30%;
+  }
+  
+  .half-box {
+    flex: 1 1 50%;
+  }
+
+  input:focus[type="submit"] {
+    display:none;
+  }
+  
+  input[type="submit"] {
+    background-color: #323232;
+    color: #FFF;
+    padding: 8px 5px;
+    color: #fff;
+    font-family: Helvetica,sans-serif;
+    font-size: 20px;  
+    border: 1px solid #fff; 
+    margin-bottom: 10px;  
+    text-shadow: 0 1px 1px #333;
+    -webkit-border-radius: 5px;
+    border-radius: 20px;
+  }
+  
+  input[type="submit"]:hover{
+    background: tomato;
+  }
+  
+  input, label[type="fullbox"] {
+    width: 50%; 
+  }
+  
+  label {
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;  
+  }
+  
+  input {
+    border-bottom: 2px solid #323232;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;  
+    margin-bottom: 15px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+  }
+  
+  input:focus /*quando vc clica no input*/{
+    border-color: tomato;
+    outline: none;
+  }
+  
+  
+  input[type="checkbox"] {
+    background-color: #323232;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 80px;
+    text-align: right;
+    padding: 0px;
+    width: 5%;
+    flex-wrap: none;
+    margin-left: -2%;
+    position: relative;
+  }
+  
+  input:focus[type="checkbox"] {
+    display:inline-block;
+  }
+  
+  .middle-box {
+    flex: 1 1 50%;
+    margin-left: 25%;
+  }
+
+  /* chat */
+
+  
+.container2 {
+    display: none;
+    height: 400;
+    width: 23%;
+    right: 25px;
+    bottom: 20px;
+    background-color: rgb(248, 187, 176);
+    font-size: 17px;
+    position: fixed;
+}
+
+.chat2{
+    position: fixed;
+    right: 10px;
+    bottom: 0px;
+}
+
+#btn-div{
+    background-color: blue; 
+    bottom: 0;
+    width: 0px;
+    height: 0px;
+    display: block;
+    margin-bottom: 410px;
+    margin-left: 100%;
+    border-style: none;
+    position: fixed;
+}
+
+#ok{
+    background-color: transparent;
+    bottom: 0;
+    border-radius: 50%;
+    margin-bottom: 1%;
+    border-style: none;
+    position: fixed;
+    width: 40px;
+    height: 5%;
+    right: 38px;
+    display: block;
+}
+
+
+.top{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(241, 119, 98); 
+}
+
+.bottom {
+    height: 350px;
+    width: 100%;
+    bottom: 0px;
+    background-color:  rgb(248, 187, 176); 
+    position: relative;
+    float: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.perfil{
+    float: left;
+    width: 80%;
+    position: relative;
+    background-color: rgb(241, 119, 98); 
+    height: 100%;
+}
+
+.sair{
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+    width: 10%;
+    position: relative;
+    background-color: transparent; 
+    height: 50%;
+    text-align: center;
+}
+
+.exit{
+    position: fixed;
+    right: 36px;
+    display: none;
+    margin-bottom: auto;
+}
+
+.botao2{
+    bottom: 0px;
+    margin-right: 100%;
+}
+
+.foto{
+    background-color: tomato;
+    border-radius: 50% 50% 50% 50%;
+    width: 40px;
+    height: 80%;
+    margin-left: 11px;
+    position: relative;
+    float: left;
+    margin-top: 2%;
+}
+
+.nome {
+    position: relative;
+    margin-top: 3%;
+    font-size: 20px;
+    margin-left: 65px;
+    background-color: transparent;
+    width: 50%;
+    height: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.estado {
+    position: relative;
+    margin-top: 0%;
+    font-size: 13px;
+    margin-left: 65px;
+    background-color: transparent;
+    width: 50%;
+    bottom: 8px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+span {
+	padding-right: 15px;
+	padding-left: 15px;
+    margin-top: 4px;
+}
+
+.container3 {
+	width: 100%;
+	height: 100%;
+}
+
+.chat {
+    position: fixed;
+    height: 370px;
+    width: 23%;
+	display: flex;
+	flex-direction: column;
+    text-align: left;
+	align-items: center;
+    margin: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-right: 28px;
+    bottom: 20px;
+} 
+ 
+input[type="submit2"] { 
+	border: 0; 
+	padding: 15px; 
+	width: 90%;
+    right: auto;
+    margin: 0px;
+    margin-bottom: 25px;
+    background-color: transparent;
+    border-color: transparent;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+input[type="submit2"]:focus { 
+	outline: thin dotted;
+    outline: 0px auto;
+    outline-offset: 0px;
+}
+
+.messages {
+	display: flex;
+	flex-direction: column;
+	overflow: scroll;
+	height: 100%;
+	width: 90%;
+	background-color: transparent;
+	padding: 15px;
+	margin: 0;
+    margin-top: 0px;
+	border-radius: 10px;
+    font-size: 17px;
+}
+
+#bot {
+	margin-left: auto;
+}
+
+#user {
+    position: relative;
+    align-items: right;
+    float: right;
+    margin-left: 73%;
+}
+
+.bot {
+	font-family: Helvetica, Arial, sans-serif;
+    position: relative;
+    align-items: left;
+    float: left;
+}
+
+.avatar {
+	height: 30px;
+}
+
+.response {
+	display: flex;
+    margin: 0px;
+    margin-bottom: 20px;
+    margin-top: 14px;
+}
+    </style>
     <title>Doação</title>
 </head>
 <body> 
@@ -80,7 +626,6 @@
                                       <input type="file" name="comprovante" id="anexo" required>
                                     </div>
                                     <div class="full-box"> 
-                                        &nbsp;
                                         <label for="nome_resp">Desejo permanecer anônimo:</label>
                                         <input type="text" name="anonimo" placeholder="Sim/Não">
                                     </div>  <br>
@@ -212,13 +757,12 @@
                 </div>  
             </div>
             <!-- rodapé -->
-                <div class="rodape">
-                  <p>
-                    Endereço: R. Carlos Nunes de Paula, 1172 - Jardim Colonial, São José dos Campos - SP, 12234-000
-                  </p>
-                  Telefone: (12) 3966-2823
-                </div>
-                  <br><br><br>
+            <div class="rodape"><br><br>
+                Endereço: R. Carlos Nunes de Paula, 1172 - Jardim ColonialSão José dos Campos - SP, 12234-000
+                <br><br> contatovomariafelix@gmail.com
+                <br><br>
+                Telefone: (12) 3966-2823
+                <br><br><br>
         </div>
     </div>     
     <div class="container2">
@@ -241,7 +785,7 @@
         <div id="container3" class="container3">
             <div id="chat" class="chat">
                 <div id="messages" class="messages"></div>
-                <input id="input" type="text" placeholder="Envie uma mensagem..." autocomplete="off" autofocus="false" />
+                <input id="input" type="submit2" placeholder="Envie uma mensagem..." autocomplete="off" autofocus="false" />
             </div>
             <button id="ok" class="ok">
                 <div class="botao2">

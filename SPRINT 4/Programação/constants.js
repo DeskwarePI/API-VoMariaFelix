@@ -25,8 +25,8 @@ const replies = [
   ["Estou aqui para te ajudar, chame-me quando precisar!"],
   ["Você pode se voluntariar ou doar alguma quantia. Confira mais informações na aba ajude."], 
   ["Tente ligar novamente para o número (12)3966-2823 dentre algumas horas. Outras informações de contato podem ser encontradas no rodapé."], 
-  ["Você precisa enivar e aguardar a aprovação pela Ong."],
-  ["Contribuir para o bem-estar, a valorização pessoal e a plena integração social das criança. Confira mais informações na página sobre."], 
+  ["Você precisa enviar e aguardar a aprovação pela Ong."],
+  ["Contribuir para o bem-estar, a valorização pessoal e a plena integração social das crianças. Confira mais informações na página sobre."], 
   ["Tente contatar nossa Ong via e-mail ou telefonema."],
   ["Ok, chame-me quando precisar!"],
 ]
@@ -49,4 +49,8 @@ const coronavirus = [
 
 const help = [
   "Encontre ajuda, fale com alguém de sua confiança ou com a cvv, 188",
+]
+
+const who = [
+  "Eu fui codada pela Deskware, em que posso te ajudar?",
 ]

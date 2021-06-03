@@ -153,10 +153,13 @@ h3{
 
 .botao {
     background-color:tomato;
-    height: 35px;
-    width: 150px;
+    width: 30%;
     position: center;
     padding: 8px 5px;
-    margin-top: 30px;  
-    margin-left: 230px;
+    margin-top: 30px; 
+    margin-left: 33%; 
+}
+
+.botao:hover {
+    background-color:rgb(241, 119, 98);
 }

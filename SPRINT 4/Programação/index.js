@@ -34,6 +34,9 @@ function output(input) {
     } else if (text.match(/(corona|covid|virus)/gi)) {
       // Se não houver correspondência, verifique se a mensagem contém `coronavirus`
       product = coronavirus[Math.floor(Math.random() * coronavirus.length)];
+    } else if (text.match(/(criou|fez|desenvolveu)/gi)) {
+      // Se não houver correspondência, verifique se a mensagem contém algo que indique curiosidade sobre a criação
+      product = who[Math.floor(Math.random() * who.length)];
     } else if (text.match(/(morrer|suicidio|matar)/gi)) {
       // Se não houver correspondência, verifique se a mensagem contém algo que necessite outra ajuda
       product = help[Math.floor(Math.random() * help.length)];

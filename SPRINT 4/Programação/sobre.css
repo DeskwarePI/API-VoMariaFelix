@@ -267,7 +267,11 @@ h6{
     position: center;
     padding: 8px 5px;
     margin-top: 12px;  
-    margin-left: 63px;
+    margin-left: 23%;
+}
+
+.botao:hover {
+    background-color:rgb(241, 119, 98);
 }
 
 .texto5{
@@ -277,17 +281,6 @@ h6{
     text-align: center;
     padding: 8px;
     margin: 0;
-}
-
-.texto5:hover {
-    font-size: 18px;
-  }
-
-.botao:hover{
-    width: 152px;
-    height: 37px;
-    font-size: 18px;
-    position: center;
 }
 
 .parceiros{
