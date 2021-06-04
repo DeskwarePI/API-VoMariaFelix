@@ -92,14 +92,6 @@
 
 <br>
 
-<h3 align="center">Login + Controle do Administrador</h3>
-
-<hr>
-
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/oficial/SPRINT%202/Execu%C3%A7%C3%A3o/login-adm.gif"/></h1>
-
-<br>
-
 ## :gear: Execução Geral
 
 <h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/oficial/SPRINT%202/Execu%C3%A7%C3%A3o/completo.gif"/></h1>
