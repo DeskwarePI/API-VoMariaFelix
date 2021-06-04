@@ -31,11 +31,11 @@
 ## :information_source: Informações
 
 *Pitch*
-> [Apresentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/main/SPRINT%203/Documenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o.pdf)
+> [Apresentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%203/Documenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o.pdf)
 
 <br>
 
-> [Portifólio](https://github.com/DeskwarePI/API-VoMariaFelix/tree/main/SPRINT%203/Execu%C3%A7%C3%A3o)
+> [Portifólio](https://github.com/DeskwarePI/API-VoMariaFelix/tree/oficial/SPRINT%203/Execu%C3%A7%C3%A3o)
 
 <br>
 
