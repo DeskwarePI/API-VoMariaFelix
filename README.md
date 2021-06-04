@@ -58,7 +58,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 - [x] [SPRINT 3](https://github.com/DeskwarePI/API-VoMariaFelix/tree/main/SPRINT%203) - 26/04 a 16/05: Concluído :heavy_check_mark:
 
-- [x] SPRINT 4 - 17/05 a 05/06
+- [x] [SPRINT 4]() - 17/05 a 06/06
 
 - [x] Apresentação Final - 07/06 a 11/06
 
@@ -97,7 +97,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 ## :bar_chart: Backlog Total
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total.png"/></h1>
+<h1 align="left"> <img src = ""/></h1>
 
 <br>
 
