@@ -25,7 +25,7 @@
 
 ## :clipboard: Entregas da Sprint
 
-<h1 align="left"> <img src = "" height="420" /></h1>
+<h1 align="left"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/Imagens%20Gerais/Card%204.png" height="420" /></h1>
 
 <br>
 
