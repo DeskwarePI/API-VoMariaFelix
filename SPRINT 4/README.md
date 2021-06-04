@@ -43,19 +43,27 @@
 
 ## :computer: Execuções
 
-<h3 align="center">Página Seja Doador</h3>
+<h3 align="center">Página do Alunos</h3>
 
 <hr>
 
-<h1 align="center"> <img src = "/SPRINT 3/Execução/Página doação.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/%C3%81rea%20do%20Aluno.gif"/></h1>
 
 <br>
 
-<h3 align="center">Página Projetos</h3>
+<h3 align="center">Barra de Pesquisa</h3>
 
 <hr>
 
-<h1 align="center"> <img src = "/SPRINT 3/Execução/Página projetos.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Projeto.gif"/></h1>
+
+<br>
+
+<h3 align="center">Chat</h3>
+
+<hr>
+
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/%C3%81rea%20do%20Aluno.gif"/></h1>
 
 <br>
 
@@ -69,7 +77,7 @@
 
 ## :chart_with_upwards_trend: Burndown
 
-<h1 align="left"> <img src = "/SPRINT 3/Documentação/burndown.png"/></h1>
+<h1 align="left"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/Imagens%20Gerais/Burd_f.png"/></h1>
 
 <br>
 
