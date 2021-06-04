@@ -25,7 +25,7 @@
 ## :briefcase: O Projeto
 Nosso Cliente é  uma ONG voltada para crianças de 0 a 7 anos, chamada Vó Maria Félix. 
 
-> [Documentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/main/SPRINT%203/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3o.pdf)
+> [Documentação](https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3oSprint4.pdf)
 
 
 <br>
@@ -52,13 +52,13 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 - [x] KICK OFF - 28/02 a 06/03: Concluído :heavy_check_mark:
 
-- [x] [SPRINT 1](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%201) - 08/03 a 28/03: Concluído :heavy_check_mark:
+- [x] [SPRINT 1](https://github.com/DeskwarePI/API-VoMariaFelix/tree/oficial/SPRINT%201) - 08/03 a 28/03: Concluído :heavy_check_mark:
 
-- [x] [SPRINT 2](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
+- [x] [SPRINT 2](https://github.com/DeskwarePI/API-VoMariaFelix/tree/oficial/SPRINT%202) - 29/03 a 18/04: Concluído :heavy_check_mark:
 
-- [x] [SPRINT 3](https://github.com/DeskwarePI/API-VoMariaFelix/tree/main/SPRINT%203) - 26/04 a 16/05: Concluído :heavy_check_mark:
+- [x] [SPRINT 3](https://github.com/DeskwarePI/API-VoMariaFelix/tree/oficial/SPRINT%203) - 26/04 a 16/05: Concluído :heavy_check_mark:
 
-- [x] SPRINT 4 - 17/05 a 05/06
+- [x] [SPRINT 4](https://github.com/DeskwarePI/API-VoMariaFelix/tree/oficial/SPRINT%204) - 17/05 a 05/06: Concluído :heavy_check_mark:
 
 - [x] Apresentação Final - 07/06 a 11/06
 
@@ -74,7 +74,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 <h1 align="left"> <img src = "/Imagens Gerais/Imagem mapa do site.png"/></h1>
 
 *Diagrama*
-> [Diagrama](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Diagrama.pdf)
+> [Diagrama](https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%201/Documenta%C3%A7%C3%A3o/Diagrama.pdf)
 <br>
 
 ## :bulb: Metodologia Utilizada
