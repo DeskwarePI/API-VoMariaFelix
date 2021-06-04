@@ -31,7 +31,7 @@
 ## :information_source: Informações
 
 *Pitch*
-> [Apresentação](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/main/SPRINT%201/Documenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o.pdf)
+> [Apresentação](https://github.com/DeskwarePI/Grupo_3_Deskware/blob/oficial/SPRINT%201/Documenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o.pdf)
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <br>
 
-> [Pasta com o Protótipo](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/main/Layouts)
+> [Pasta com o Protótipo](https://github.com/DeskwarePI/Grupo_3_Deskware/tree/oficial/Layouts)
 
 <br>
 
