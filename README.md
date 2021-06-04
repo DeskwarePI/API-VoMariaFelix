@@ -65,7 +65,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 - [x] Feira de Soluções - 14/06 a 18/06
 
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem cronograma.png"/></h1>
+<h1 align="left"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/Imagens%20Gerais/nnnnnnnn.png"/></h1>
 
 <br>
 
