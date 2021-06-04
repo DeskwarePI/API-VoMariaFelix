@@ -97,7 +97,7 @@ Nosso objetivo é desenvolver uma página website para uma ONG de cuidados infan
 
 ## :bar_chart: Backlog Total
 
-<h1 align="left"> <img src = "/Imagens Gerais/Imagem backlog total.png"/></h1>
+<h1 align="left"> <img src = "/Imagens%20Gerais/WhatsApp%20Image%202021-06-04%20at%2014.18.55.jpeg"/></h1>
 
 <br>
 
