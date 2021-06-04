@@ -47,7 +47,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/%C3%81rea%20do%20Aluno.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/%C3%81rea%20do%20Aluno.gif" height="500" width="700"/></h1>
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Projeto.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Projeto.gif" height="500" width="700"/></h1>
 
 <br>
 
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Home.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Home.gif" height="500" width="700"/></h1>
 
 <br>
 
