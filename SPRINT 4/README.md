@@ -67,13 +67,6 @@
 
 <br>
 
-## :gear: Execução Geral
-
-<hr>
-
-<h1 align="center"> <img src = ""/></h1>
-
-<br>
 
 ## :chart_with_upwards_trend: Burndown
 
