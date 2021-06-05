@@ -94,7 +94,7 @@
 
 ## :gear: Execução Geral
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/Grupo_3_Deskware/blob/oficial/SPRINT%202/Execu%C3%A7%C3%A3o/completo.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%202/Execu%C3%A7%C3%A3o/oficial2.gif"/></h1>
 
 <br>
 
