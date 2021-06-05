@@ -55,7 +55,7 @@
 
 <hr>
 
-<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Projeto.gif" height="500" width="700"/></h1>
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Barra_de_pesquisa.gif" height="500" width="700"/></h1>
 
 <br>
 
