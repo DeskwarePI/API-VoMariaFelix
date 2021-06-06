@@ -43,7 +43,7 @@
 
 ## :computer: Execuções
 
-<h3 align="center">Página do Alunos</h3>
+<h3 align="center">Página dos Alunos</h3>
 
 <hr>
 
@@ -67,6 +67,24 @@
 
 <br>
 
+## :gear: Execução Geral
+
+
+<h3 align="center">Parte 1</h3>
+
+<hr>
+
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Primeiro.gif" height="500" width="700"/></h1>
+
+<br>
+
+<h3 align="center">Parte 2</h3>
+
+<hr>
+
+<h1 align="center"> <img src = "https://github.com/DeskwarePI/API-VoMariaFelix/blob/oficial/SPRINT%204/Execu%C3%A7%C3%A3o/Segundo.gif" height="500" width="700"/></h1>
+
+<br>
 
 ## :chart_with_upwards_trend: Burndown
 
